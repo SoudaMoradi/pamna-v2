@@ -1,0 +1,25 @@
+body{
+    background-color:#FAFAFF;
+    margin:unset;
+}
+.avatar-sm{
+    width: 1.3rem!important;
+    height: 1.3rem!important;
+}
+.p-menubar .p-menubar-end{
+    margin-left: unset;
+    flex: 1 1;
+}
+.p-menubar .p-menubar-start{
+    flex: 1 1;
+}
+.p-menubar-root-list{
+  display:flex;
+
+    align-items: center;
+    justify-content:center;
+}
+.p-float-label >label{
+    left:unset!important;
+    right:1rem!important;
+}
